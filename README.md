@@ -12,8 +12,7 @@ The user provides an image (in .jpg or .png format), chooses a threshold value, 
 4.  Applies a threshold (chosen by the user) to produce a binary edge map.
 5.  Displays the resulting edges visually.
 6.  Saves the binary edge map to a text file.
-7.  Calculates and displays basic statistics (mean, min, max) for the detected edges.
-8.  
+7.  Calculates and displays basic statistics (mean, min, max) for the detected edges.  
 ## How to use it:
 Run the program from the terminal:
 
